@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @khal33d-hub
 - 👀 I’m interested in data science/analysis, pythons backend and machine learning engineering
+- 🗂 my e-portfolio here https://sites.google.com/view/meetkhaleed/home
 - 🌱 I’m currently learning advanced courses on machine learning engineering
 - 💞️ I’m looking to collaborate on abt project
 - 📫 How to reach me oyelekekhaleed@gmail.com
