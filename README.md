@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science/analysis, pythons backend and machine learning engineering
 - 🗂 my e-portfolio here https://sites.google.com/view/meetkhaleed/home
 - 🌱 I’m currently learning advanced courses on machine learning engineering
-- 💞️ I’m looking to collaborate on abt project
+- 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me oyelekekhaleed@gmail.com
 
 <!---
