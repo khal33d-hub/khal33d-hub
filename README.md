@@ -3,7 +3,7 @@
 - 🗂 my e-portfolio here https://sites.google.com/view/meetkhaleed/home
 - 🌱 I’m currently learning advanced courses on machine learning engineering
 - 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me oyelekekhaleed@gmail.com
+- 📫 How to reach me oyelekekhaleed697@gmail.com
 
 <!---
 khal33d-hub/khal33d-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
